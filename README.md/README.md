@@ -10,7 +10,7 @@ UM DOS MEUS PRIMEIROS PROJETOS COMO DESENVOLVEDOR.
 
 ## COMO ULTILIZAR
 
-1 - PASSE O MOUSE EM CIMA DOS PERSONAGENS, TERA UMA DESCRIÇÃO FALANDO SOBRE OS PODERES E AS HABILIDADES DE CASA UM.
+1 - PASSE O MOUSE EM CIMA DOS PERSONAGENS, TERA UMA DESCRIÇÃO FALANDO SOBRE OS PODERES E AS HABILIDADES DE CADA UM.
 
 <div style="display: inline_block"><br/>
 <img alingn="center"alt="javascript"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">

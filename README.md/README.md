@@ -1,7 +1,7 @@
 # Projeto X-men
 UM DOS MEUS PRIMEIROS PROJETOS COMO DESENVOLVEDOR.
 
-## Tecnologias Ultilizadas
+## Tecnologias Utilizadas
 - HTML
 
 - CSS

@@ -1,7 +1,7 @@
-# Projeto X-men
+# PROJETO X-MEN
 UM DOS MEUS PRIMEIROS PROJETOS COMO DESENVOLVEDOR.
 
-## Tecnologias Utilizadas
+## TECNOLOGIAS UTILIZADAS
 - HTML
 
 - CSS
@@ -10,7 +10,7 @@ UM DOS MEUS PRIMEIROS PROJETOS COMO DESENVOLVEDOR.
 
 ## COMO ULTILIZAR
 
-1 - PASSE O MOUSE EM CIMA DOS PERSONAGENS, TERA UMA DESCRIÇÃO FALANDO SOBRE OS PODERES E AS HABILIDADES DE CADA UM.
+1 - Passe o mouse em cima do personagem, e verá uma breve descrição do mesmo.
 
 <div style="display: inline_block"><br/>
 <img alingn="center"alt="javascript"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -18,4 +18,6 @@ UM DOS MEUS PRIMEIROS PROJETOS COMO DESENVOLVEDOR.
 <img alingn="center"alt="Html"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 </div><br/>
 
-[<img src="./Animação luffy.gif" alt="Projeto X-MEN">](https://uandersonlim.github.io/X-MEN/)
+<a href="https://uandersonlim.github.io/X-MEN/" target="_blank">
+<img src="./README/Animação luffy.gif" alt="GIF"/>
+</a>
